@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "3720-.NET-Starter-Project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "WebApp1.sln"
+	}
+}
