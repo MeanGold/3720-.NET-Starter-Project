@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project",
-      "program": "c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/build/Debug/outDebug",
+      "cwd": "c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/Views",
+      "program": "c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/Views/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
