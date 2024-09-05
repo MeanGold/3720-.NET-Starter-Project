@@ -24,3 +24,6 @@ c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Start
 c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.genruntimeconfig.cache
 c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\ref\WebApp1.dll
 c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.staticwebassets.runtime.json
+c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.RazorAssemblyInfo.cache
+c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.RazorAssemblyInfo.cs
+c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.sourcelink.json

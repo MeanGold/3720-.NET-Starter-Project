@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\WebApp1.csproj": {}
+    "c:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\WebApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\WebApp1.csproj": {
+    "c:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\WebApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\WebApp1.csproj",
+        "projectUniqueName": "c:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\WebApp1.csproj",
         "projectName": "WebApp1",
-        "projectPath": "C:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\WebApp1.csproj",
+        "projectPath": "c:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\WebApp1.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\obj\\",
+        "outputPath": "c:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
