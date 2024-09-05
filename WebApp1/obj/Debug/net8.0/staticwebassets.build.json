@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "bM5t1YnDTQdr4XNcjOf4p2peKDxRtUhO2vZ7j6hsh4Q=",
+  "Source": "WebApp1",
+  "BasePath": "_content/WebApp1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApp1\\wwwroot",
+      "Source": "WebApp1",
+      "ContentRoot": "c:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\",
+      "BasePath": "_content/WebApp1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\index.html",
+      "SourceId": "WebApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\",
+      "BasePath": "_content/WebApp1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
