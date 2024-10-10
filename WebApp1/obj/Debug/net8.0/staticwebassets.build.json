@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bM5t1YnDTQdr4XNcjOf4p2peKDxRtUhO2vZ7j6hsh4Q=",
+  "Hash": "kgdPN5eNmxYRdTTC8CAg9ez8BpYkkN28WFwpgtTEAkk=",
   "Source": "WebApp1",
   "BasePath": "_content/WebApp1",
   "Mode": "Default",
@@ -8,19 +8,57 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "WebApp1\\wwwroot",
+      "Name": "WebApp1/wwwroot",
       "Source": "WebApp1",
-      "ContentRoot": "c:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\",
+      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
       "BasePath": "_content/WebApp1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\index.html",
+      "Identity": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/CSS/createaccount.css",
       "SourceId": "WebApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\jonat\\OneDrive\\Desktop\\CPSC 3720\\WebApp Intro\\WebApplication\\.NET Starter\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\",
+      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+      "BasePath": "_content/WebApp1",
+      "RelativePath": "CSS/createaccount.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/CSS/createaccount.css"
+    },
+    {
+      "Identity": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/CSS/login.css",
+      "SourceId": "WebApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+      "BasePath": "_content/WebApp1",
+      "RelativePath": "CSS/login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/CSS/login.css"
+    },
+    {
+      "Identity": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/index.html",
+      "SourceId": "WebApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
       "BasePath": "_content/WebApp1",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -33,7 +71,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
+      "OriginalItemSpec": "wwwroot/index.html"
     }
   ]
 }

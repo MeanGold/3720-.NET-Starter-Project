@@ -1,0 +1,91 @@
+@{
+    ViewData["Title"] = "Create Account";
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Your Account</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="~/CSS/createaccount.css">
+
+    <!-- Boxicons CSS -->
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+
+</head>
+
+<body>
+    <script src="#"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var signupForm = document.getElementById("signup-form");
+            formListener(signupForm, "signup");
+
+            // Add event listener to the eye icon for password toggle
+            const togglepassword = document.querySelector('#togglepassword');
+            const password = document.querySelector('input[name="password"]');
+
+            togglepassword.addEventListener('click', function () {
+                const type = password.getAttribute('type') === 'password' ? 'text' : 'password';
+                password.setAttribute('type', type);
+
+                // Toggle the eye icon class for visibility indication
+                this.classList.toggle('bx-low-vision');
+                this.classList.toggle('bx-show');
+            });
+
+        });
+    </script>
+
+    <section class="container forms">
+
+        <!-- Signup Form -->
+        <div class="form login">
+            <div class="form-content">
+                <header>Create Your Account</header>
+                <form id="signup-form">
+                    <div class="field">
+                        <input type="email" placeholder="Email" class="input" name="email">
+                    </div>
+
+                    <div class="field">
+                        <input type="password" placeholder="Create password" class="password" name="password">
+                        <i class='bx bx-hide eye-icon' id="togglepassword"></i>
+                    </div>
+
+                    <div class="field">
+                        <input type="password" placeholder="Confirm password" class="password" name="confirm-password">
+                    </div>
+
+                    <div class="field">
+                        <select default="Age" class="age_select" name="age">
+                            <option disabled selected value> -- Are you a Clemson affiliate? -- </option>
+                            <option value="0"> Yes </option>
+                            <option value="1"> No </option>
+                        </select>
+                    </div>
+
+                    <h3 style="color:red; border-color: red; padding: 3px;" class="form-message"></h3>
+
+                    <div class="field button-field">
+                        <button type="submit">Create Account</button>
+                    </div>
+                </form>
+
+                <div class="form-link">
+                    <span>Already have an account? <a href="/Login/index" class="link login-link">Login</a></span>
+                </div>
+
+            </div>
+            <div class="form-link">
+                <span><a href="/index.html">Back to Home Page</a></span>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>

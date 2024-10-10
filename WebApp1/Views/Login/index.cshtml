@@ -1,0 +1,90 @@
+@{
+    ViewData["Title"] = "Login Page";
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TigerTix: @ViewData["Title"]</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="~/CSS/login.css">
+
+    <!-- Boxicons CSS -->
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+    <script src="#"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var loginForm = document.getElementById("login-form");
+            formListener(loginForm, "login");
+
+            // Add event listener to the eye icon for password toggle
+            const togglepassword = document.querySelector('#togglepassword');
+            const password = document.querySelector('input[name="password"]');
+
+            togglepassword.addEventListener('click', function () {
+                const type = password.getAttribute('type') === 'password' ? 'text' : 'password';
+                password.setAttribute('type', type);
+
+                // Toggle the eye icon class for visibility indication
+                this.classList.toggle('bx-low-vision');
+                this.classList.toggle('bx-show');
+            });
+
+            // Check the URL for the 'reset' parameter
+            const urlParams = new URLSearchParams(window.location.search);
+            const resetParam = urlParams.get('newpwd');
+
+            if (resetParam === 'passwordupdated') {
+                // Display the success message
+                document.getElementById('success-message').style.display = 'block';
+            }
+        });
+    </script>
+    <section class="container forms">
+        <div class="form login">
+            <div class="form-content">
+                <header>Login</header>
+                <form id="login-form">
+                    <div class="field input-field">
+                        <input type="email" placeholder="Email" class="input" name="email">
+                    </div>
+
+                    <div class="field input-field">
+                        <input type="password" placeholder="Password" class="password" name="password">
+                        <i class='bx bx-low-vision eye-icon' id='togglepassword'></i>
+                    </div>
+
+                    <div class="form-link">
+                        <a href="#" class="forgot-pass">Forgot password?</a>
+                    </div>
+
+                    <div id="success-message" style="display: none; color: green; margin-top: 10px;">
+                        Your password has been reset!
+                    </div>
+
+                    <h3 style="color:red; border-color: red; padding: 3px;" class="form-message"></h3>
+
+                    <div class="field button-field">
+                        <button type="submit">Login</button>
+                    </div>
+                </form>
+
+                <div class="form-link">
+                    <span>Don't have an account?<a href="/CreateAccount/index" class="link signup-link"> Create Account</a></span>
+                </div>
+            </div>
+
+            <div class="form-link">
+                <span><a href="index">Back to Home Page</a></span>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
