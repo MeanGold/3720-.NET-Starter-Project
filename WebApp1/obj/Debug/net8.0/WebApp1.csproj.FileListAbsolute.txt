@@ -27,3 +27,32 @@ c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Start
 c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.RazorAssemblyInfo.cache
 c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.RazorAssemblyInfo.cs
 c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.sourcelink.json
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\appsettings.json
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.staticwebassets.runtime.json
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.exe
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.deps.json
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.runtimeconfig.json
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.dll
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.pdb
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.AssemblyInfoInputs.cache
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.AssemblyInfo.cs
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.csproj.CoreCompileInputs.cache
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.RazorAssemblyInfo.cache
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.RazorAssemblyInfo.cs
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.sourcelink.json
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.WebApp1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp1.props
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp1.props
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp1.props
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\scopedcss\bundle\WebApp1.styles.css
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.dll
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\refint\WebApp1.dll
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.pdb
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.genruntimeconfig.cache
+C:\Users\jonat\3720_project\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\ref\WebApp1.dll

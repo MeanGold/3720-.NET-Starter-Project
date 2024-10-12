@@ -19,4 +19,8 @@ app.MapRazorPages();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=App}/{action=Index}/{id?}");
+app.MapControllerRoute(
+    name: "account",
+    pattern: "{controller=Account}/{action=Index}/{id?}");
+
 app.Run();
