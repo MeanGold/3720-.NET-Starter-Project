@@ -1,29 +1,58 @@
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\appsettings.Development.json
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\appsettings.json
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.exe
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.deps.json
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.runtimeconfig.json
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.dll
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.pdb
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.AssemblyInfoInputs.cache
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.AssemblyInfo.cs
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.csproj.CoreCompileInputs.cache
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.MvcApplicationPartsAssemblyInfo.cache
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets.build.json
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets.development.json
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.WebApp1.Microsoft.AspNetCore.StaticWebAssets.props
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp1.props
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp1.props
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp1.props
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\staticwebassets.pack.json
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\scopedcss\bundle\WebApp1.styles.css
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.dll
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\refint\WebApp1.dll
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.pdb
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.genruntimeconfig.cache
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\ref\WebApp1.dll
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\bin\Debug\net8.0\WebApp1.staticwebassets.runtime.json
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.RazorAssemblyInfo.cache
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.RazorAssemblyInfo.cs
-c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.sourcelink.json
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/appsettings.Development.json
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/appsettings.json
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.exe
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.deps.json
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.runtimeconfig.json
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.dll
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.pdb
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.AssemblyInfoInputs.cache
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.AssemblyInfo.cs
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.csproj.CoreCompileInputs.cache
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.MvcApplicationPartsAssemblyInfo.cache
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.build.json
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.development.json
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.WebApp1.Microsoft.AspNetCore.StaticWebAssets.props
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp1.props
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp1.props
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp1.props
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.pack.json
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/scopedcss/bundle/WebApp1.styles.css
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.dll
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/refint/WebApp1.dll
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.pdb
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.genruntimeconfig.cache
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/ref/WebApp1.dll
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.staticwebassets.runtime.json
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.RazorAssemblyInfo.cache
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.RazorAssemblyInfo.cs
+c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.sourcelink.json
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/appsettings.Development.json
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/appsettings.json
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.staticwebassets.runtime.json
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.deps.json
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.runtimeconfig.json
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.dll
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.pdb
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.AssemblyInfoInputs.cache
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.AssemblyInfo.cs
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.csproj.CoreCompileInputs.cache
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.MvcApplicationPartsAssemblyInfo.cache
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.RazorAssemblyInfo.cache
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.RazorAssemblyInfo.cs
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.sourcelink.json
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.WebApp1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp1.props
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp1.props
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp1.props
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/scopedcss/bundle/WebApp1.styles.css
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.dll
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/refint/WebApp1.dll
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.pdb
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.genruntimeconfig.cache
+/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/ref/WebApp1.dll

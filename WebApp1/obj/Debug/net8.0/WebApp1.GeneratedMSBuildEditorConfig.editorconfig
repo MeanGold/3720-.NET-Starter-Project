@@ -9,15 +9,15 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApp1
 build_property.RootNamespace = WebApp1
-build_property.ProjectDir = c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1\
+build_property.ProjectDir = /Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\jonat\OneDrive\Desktop\CPSC 3720\WebApp Intro\WebApplication\.NET Starter\3720-.NET-Starter-Project\WebApp1
+build_property.MSBuildProjectDirectory = /Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/Views/App/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXGluZGV4LmNzaHRtbA==
+[/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/Views/App/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwL2luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
