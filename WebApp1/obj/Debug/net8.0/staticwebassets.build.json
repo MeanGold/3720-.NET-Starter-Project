@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "QBoQt5S5h7XDsbBWjZYbojtsydYLkXv7Ks3yf+fHd20=",
+=======
+  "Hash": "0b1719dZA+CymG50ci0xYmv+gP4dEOdH9GFadxme0jU=",
+>>>>>>> 36bde6dcb93eb52ac1f873f5dae6b308489eb1d4
   "Source": "WebApp1",
   "BasePath": "_content/WebApp1",
   "Mode": "Default",
@@ -8,19 +12,30 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "WebApp1\\wwwroot",
+      "Name": "WebApp1/wwwroot",
       "Source": "WebApp1",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\jonat\\3720_project\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\",
+=======
+      "ContentRoot": "/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+>>>>>>> 36bde6dcb93eb52ac1f873f5dae6b308489eb1d4
       "BasePath": "_content/WebApp1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\jonat\\3720_project\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\index.html",
       "SourceId": "WebApp1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jonat\\3720_project\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\",
+=======
+      "Identity": "/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/wwwroot/index.html",
+      "SourceId": "WebApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+>>>>>>> 36bde6dcb93eb52ac1f873f5dae6b308489eb1d4
       "BasePath": "_content/WebApp1",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -33,7 +48,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
+      "OriginalItemSpec": "wwwroot/index.html"
     }
   ]
 }

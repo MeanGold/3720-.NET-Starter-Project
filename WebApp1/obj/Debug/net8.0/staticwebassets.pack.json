@@ -1,23 +1,28 @@
 {
   "Files": [
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\jonat\\3720_project\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+=======
+      "Id": "/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+>>>>>>> 36bde6dcb93eb52ac1f873f5dae6b308489eb1d4
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApp1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.WebApp1.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApp1.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp1.props",
       "PackagePath": "build\\WebApp1.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp1.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp1.props",
       "PackagePath": "buildMultiTargeting\\WebApp1.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApp1.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp1.props",
       "PackagePath": "buildTransitive\\WebApp1.props"
     }
   ],

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "FIo2dbi0ic8=",
   "success": true,
   "projectFilePath": "C:\\Users\\jonat\\3720_project\\3720-.NET-Starter-Project\\WebApp1\\WebApp1.csproj",
+=======
+  "dgSpecHash": "0L7ZljKlJfY=",
+  "success": true,
+  "projectFilePath": "/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/WebApp1.csproj",
+>>>>>>> 36bde6dcb93eb52ac1f873f5dae6b308489eb1d4
   "expectedPackageFiles": [],
   "logs": []
 }

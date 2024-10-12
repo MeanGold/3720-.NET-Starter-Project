@@ -3,18 +3,73 @@
 }
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <meta charset="utf-8" />
+        <meta name = "viewport" content = "width=device-width, initial-scale=1.0" />
         <title>TigerTix: @ViewData["Title"]</title>
-    </head>
+
+
+<style>
+    body {
+        background-color: #f3f3f3;
+        font-family: Arial, sans-serif;
+    }
+
+    header {
+        background-color: #6a1b9a;
+        padding: 10px;
+        text-align: center;
+        color: white;
+    }
+
+    nav {
+        background-color: #f57c00;
+        padding 10px;
+        text-align: center;
+    }
+
+    nav a {
+        color: white;
+        text-decoration: none;
+        padding: 10px;
+        margin: 5px;
+    }
+
+    footer {
+        background-color: #424242;
+        padding: 10px;
+        text-align: center;
+        color: white;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    }
+
+    .content {
+        margin: 20px;
+    }
+    
+</style>
+
+</head>
     <body>
-        <h1>Hello World</h1>
-        <form method="post">
-            <label> Your Name:</label>
-            <br/>
-            <input type="text"/>
-            <input type="submit" value="Store Name"/>
-        </form>
+        <header>
+            <h1>Welcome to TigerTix</h1>
+        </header>
+
+        <nav>
+            <a hreft = "/Account/Login">Login</a>
+            <a href = "/Home/CustomerService">Customer Service</a>
+        </nav>
+
+        <div class = "content">
+            <h2>Explore Events and Tickets</h2>
+            <p>Your one-stop platform for event tickets and information.</p>
+        </div>
+
+        <footer>
+            <p>&copy; 2024 TigerTix.</p>
+        </footer>
     </body>
 </html>
