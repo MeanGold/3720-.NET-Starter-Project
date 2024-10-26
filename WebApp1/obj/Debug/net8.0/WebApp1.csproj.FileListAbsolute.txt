@@ -88,3 +88,4 @@ C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\D
 C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\scopedcss\bundle\WebApp1.styles.css
 C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.genruntimeconfig.cache
 C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\ref\WebApp1.dll
+>>>>>>> 36bde6dcb93eb52ac1f873f5dae6b308489eb1d4
