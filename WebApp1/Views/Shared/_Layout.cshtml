@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name = "viewport" content = "width=device-width, initial-scale=1.0" />
+        <title>TigerTix: @ViewBag.Title</title>
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="~/CSS/app.css">
+
+    </head>
+    <body>
+        <header>
+            <a href="~/app/index" class="home"><h1>Welcome to TigerTix</h1></a>
+            <nav>
+                <a href="#ViewEvents">View Events</a>
+                <a href ="~/app/CustomerService">Customer Service</a>
+                <a href="~/app/login">Login</a>
+            </nav>
+        </header>
+
+        
+        <div class="main">
+            @RenderBody()
+        </div>
+        <footer>
+            <p>&copy; 2024 TigerTix.</p>
+        </footer>
+    </body>
+</html>
