@@ -56,3 +56,14 @@ c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Start
 /Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.pdb
 /Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.genruntimeconfig.cache
 /Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/ref/WebApp1.dll
+C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.RazorAssemblyInfo.cache
+C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.RazorAssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.sourcelink.json
+C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.dll
+C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\refint\WebApp1.dll
+C:\Users\jonat\OneDrive\Documents\GitHub\3720-.NET-Starter-Project\WebApp1\obj\Debug\net8.0\WebApp1.pdb
