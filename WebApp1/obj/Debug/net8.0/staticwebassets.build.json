@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0b1719dZA+CymG50ci0xYmv+gP4dEOdH9GFadxme0jU=",
+  "Hash": "h2K8hi5VU6q12EosEBBVQN3Fpe2nfUAkXl23srt6GYE=",
   "Source": "WebApp1",
   "BasePath": "_content/WebApp1",
   "Mode": "Default",
@@ -8,19 +8,76 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "WebApp1/wwwroot",
+      "Name": "WebApp1\\wwwroot",
       "Source": "WebApp1",
-      "ContentRoot": "/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Documents\\GitHub\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\",
       "BasePath": "_content/WebApp1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/wwwroot/index.html",
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Documents\\GitHub\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\CSS\\app.css",
       "SourceId": "WebApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Documents\\GitHub\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\",
+      "BasePath": "_content/WebApp1",
+      "RelativePath": "CSS/app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CSS\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Documents\\GitHub\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\CSS\\createAccount.css",
+      "SourceId": "WebApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Documents\\GitHub\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\",
+      "BasePath": "_content/WebApp1",
+      "RelativePath": "CSS/createAccount.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CSS\\createAccount.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Documents\\GitHub\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\CSS\\login.css",
+      "SourceId": "WebApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Documents\\GitHub\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\",
+      "BasePath": "_content/WebApp1",
+      "RelativePath": "CSS/login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CSS\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonat\\OneDrive\\Documents\\GitHub\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\index.html",
+      "SourceId": "WebApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive\\Documents\\GitHub\\3720-.NET-Starter-Project\\WebApp1\\wwwroot\\",
       "BasePath": "_content/WebApp1",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -33,7 +90,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/index.html"
+      "OriginalItemSpec": "wwwroot\\index.html"
     }
   ]
 }
