@@ -55,3 +55,35 @@ footer {
 .content {
     margin: 20px;
 }
+
+.event-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    transition: transform 0.3s;
+    text-align: left;
+}
+
+.event-card:hover {
+    transform: scale(1.05);
+}
+
+.event-title {
+    font-size: 1.5em;
+    color: #6a1b9a;
+}
+
+.event-details {
+    margin-top: 10px;
+    color: #424242;
+}
+
+.event-link {
+    color: #f57c00;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 10px;
+}
