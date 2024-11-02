@@ -1,0 +1,36 @@
+@{
+    string userName = "Jonathan";
+    Layout = "~/Views/Shared/_Layout-account.cshtml";
+    ViewData["Title"] = "Profile Page";
+
+}
+
+<!-- Main Content Section -->
+<div class="content">
+    <h2>Hi, @userName! This is your profile page</h2>
+    <p>Use the following fields to update the details of your account such as name, email address, phone number, payment
+        type, and your CUID number (if applicable).</p>
+    <form action="#" method="post">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="phone">Phone Number:</label><br>
+        <input type="tel" id="phone" name="phone" required><br><br>
+
+        <label for="payment">Payment Type:</label><br>
+        <select id="payment" name="payment" required>
+            <option value="credit_card">Credit Card</option>
+            <option value="debit_card">Debit Card</option>
+            <option value="paypal">PayPal</option>
+            <option value="bank_transfer">Bank Transfer</option>
+        </select><br><br>
+
+        <label for="cuid">CUID Number:</label><br>
+        <input type="text" id="cuid" name="Your CUID" required><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</div>
