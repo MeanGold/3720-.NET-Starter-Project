@@ -12,6 +12,7 @@ header {
     top: 0;
     padding: 10px 16px; 
     width: auto;
+    z-index: 999; 
 }
 
 img.logo {
@@ -87,6 +88,7 @@ h1.events {
     transition: transform 0.3s;
     text-align: left;
     width: 40%; 
+    z-index: 1;
 }
 
 .event-card:hover {
