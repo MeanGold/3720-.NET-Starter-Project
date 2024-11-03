@@ -17,9 +17,9 @@ namespace WebApplication1.Controllers
             return View();
         }
 
-        public IActionResult Events()
-        {
-            return View();
-        }
+        // public IActionResult Events()
+        // {
+        //     return View();
+        // }
     }
 }

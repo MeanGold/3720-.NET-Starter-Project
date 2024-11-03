@@ -1,0 +1,62 @@
+@{
+    ViewData["Title"] = "Events";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .details {
+        background-color: #13aa52;
+        border: 0.5px solid #13aa52;
+        border-radius: 4px;
+        box-shadow: rgba(0, 0, 0, .1) 0 2px 4px 0;
+        box-sizing: border-box;
+        color: #fff;
+        cursor: pointer;
+        font-family: "Akzidenz Grotesk BQ Medium", -apple-system, BlinkMacSystemFont, sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        outline: none;
+        outline: 0;
+        padding: 8px 20px;
+        text-align: center;
+        transform: translateY(0);
+        transition: transform 150ms, box-shadow 150ms;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+        text-decoration: none;
+    }
+
+    .details:hover {
+        box-shadow: rgba(0, 0, 0, .15) 0 3px 9px 0;
+        transform: translateY(-2px);
+    }
+</style>
+
+@* NOTES:
+Will eventally make the redering of cards dynamic off of a list we give it or
+from our database. The details button will go to a page that has the specific
+details of the event that are pulled from the dynamic rendering. Currently, when linking to
+an event details page, it needs an ID associated with the event. Currently these are hard coded
+but we wil need to fix that especially when we add filtering. *@
+@* this is for when we render events dynamically *@
+@* <a href="/Events/EventDetails/@evt.Id" class="btn btn-primary">Details</a> *@
+
+<div class="content">
+    <h1 class="events">Upcoming Events</h1>
+    <div class="content">
+        @* Loop through the events in the model *@
+        @foreach (var evt in Model)
+        {
+            <div class="event-card">
+                <div class="event-title">@evt.Title</div>
+                <div class="event-details">
+                    <p>@evt.Description</p>
+                    <p><strong>Date:</strong> @evt.Date</p>
+                    <p><strong>Time:</strong> @evt.Time</p>
+                    <p><strong>Location:</strong> @evt.Location</p>
+                </div>
+                <a href="/Events/EventDetails/@evt.Id" class="details">Details</a>
+            </div>
+        }
+    </div>
