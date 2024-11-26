@@ -7,6 +7,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .container{
+    min-height: 675px;
     height: 100vh;
     width: 100%;
     display: flex;
@@ -46,7 +47,7 @@ form{
 }
 .form .field{
     position: relative;
-    height: 50px;
+    height: 35px;
     width: 100%;
     margin-top: 20px;
     border-radius: 6px;
@@ -162,7 +163,7 @@ a.google span{
     color: #232836;
 }
 
-select .age_select {
+select .affiliate_select {
   border: 1px solid #ccc;
   border-radius: 5px;
   font-size: 16px;

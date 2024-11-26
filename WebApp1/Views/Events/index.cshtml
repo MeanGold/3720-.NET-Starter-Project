@@ -2,6 +2,7 @@
     ViewData["Title"] = "Events";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+@model IEnumerable<Event>
 
 <style>
     .details {
@@ -45,7 +46,6 @@ but we wil need to fix that especially when we add filtering. *@
 <div class="content">
     <h1 class="events">Upcoming Events</h1>
     <div class="content">
-        @* Loop through the events in the model *@
         @foreach (var evt in Model)
         {
             <div class="event-card">

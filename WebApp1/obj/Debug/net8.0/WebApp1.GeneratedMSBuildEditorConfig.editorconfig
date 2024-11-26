@@ -1,59 +1,85 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApp1
 build_property.RootNamespace = WebApp1
-build_property.ProjectDir = /Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/
+build_property.ProjectDir = C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1
+build_property.MSBuildProjectDirectory = C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/Views/Account/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9pbmRleC5jc2h0bWw=
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/Account/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/Views/Account/profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9wcm9maWxlLmNzaHRtbA==
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/Account/profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxwcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/Views/App/customerservice.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwL2N1c3RvbWVyc2VydmljZS5jc2h0bWw=
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/Account/updateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFx1cGRhdGVVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/Views/App/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwL2luZGV4LmNzaHRtbA==
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/App/customerservice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXGN1c3RvbWVyc2VydmljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/Views/App/login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwL2xvZ2luLmNzaHRtbA==
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/App/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/Views/CreateAccount/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3JlYXRlQWNjb3VudC9pbmRleC5jc2h0bWw=
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/App/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXGxvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/Views/Events/eventdetails.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnRzL2V2ZW50ZGV0YWlscy5jc2h0bWw=
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/App/ShowUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXFNob3dVc2Vycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/Views/Events/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnRzL2luZGV4LmNzaHRtbA==
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/CreateAccount/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlYXRlQWNjb3VudFxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/Views/Shared/_Layout-account.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQtYWNjb3VudC5jc2h0bWw=
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/CreateAccount/newUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlYXRlQWNjb3VudFxuZXdVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/Events/eventdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXGV2ZW50ZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/Events/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/Shared/_Layout-account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQtYWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jonat/OneDrive - Clemson University/CPSC 3720/TigerTix/WebApp1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z6fuKpj+nBi3q1yQB3xCMJlAd5Mahq9V/GMuJASPjfU=",
+  "Hash": "HZOMsw+i+qWCxGzsny5Z2EJht1w7c1cBhf6Nijo9CKE=",
   "Source": "WebApp1",
   "BasePath": "_content/WebApp1",
   "Mode": "Default",
@@ -8,165 +8,736 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "WebApp1/wwwroot",
+      "Name": "WebApp1\\wwwroot",
       "Source": "WebApp1",
-      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\",
       "BasePath": "_content/WebApp1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/CSS/account.css",
+      "Identity": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\account.css",
       "SourceId": "WebApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\",
       "BasePath": "_content/WebApp1",
-      "RelativePath": "CSS/account.css",
+      "RelativePath": "CSS/account#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "eb8xc3igf3",
+      "Integrity": "WkC5r3PBQRBruiqs0fT6+mGnCSrc/pCSz7w89QWj4as=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/CSS/account.css"
+      "OriginalItemSpec": "wwwroot\\CSS\\account.css"
     },
     {
-      "Identity": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/CSS/app.css",
+      "Identity": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\app.css",
       "SourceId": "WebApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\",
       "BasePath": "_content/WebApp1",
-      "RelativePath": "CSS/app.css",
+      "RelativePath": "CSS/app#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "1b8sau4ocs",
+      "Integrity": "8yQux4OSM7jm0MjllQnfPZT5Ouof5br4VAPihU/hvqQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/CSS/app.css"
+      "OriginalItemSpec": "wwwroot\\CSS\\app.css"
     },
     {
-      "Identity": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/CSS/createAccount.css",
+      "Identity": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\createAccount.css",
       "SourceId": "WebApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\",
       "BasePath": "_content/WebApp1",
-      "RelativePath": "CSS/createAccount.css",
+      "RelativePath": "CSS/createAccount#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "g1rv1jjxw9",
+      "Integrity": "pNcCXqEl/AV8K61x0TntVdftn5urGSNdZ6V60wwayEM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/CSS/createAccount.css"
+      "OriginalItemSpec": "wwwroot\\CSS\\createAccount.css"
     },
     {
-      "Identity": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/CSS/login.css",
+      "Identity": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\login.css",
       "SourceId": "WebApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\",
       "BasePath": "_content/WebApp1",
-      "RelativePath": "CSS/login.css",
+      "RelativePath": "CSS/login#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "295g8ajhbi",
+      "Integrity": "aqHJixd7DOShizmNbVcA3G9nDH0t+yyYTHo0A6Rt/t4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/CSS/login.css"
+      "OriginalItemSpec": "wwwroot\\CSS\\login.css"
     },
     {
-      "Identity": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/Images/banner_logo.jpg",
+      "Identity": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\Images\\banner_logo.jpg",
       "SourceId": "WebApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\",
       "BasePath": "_content/WebApp1",
-      "RelativePath": "Images/banner_logo.jpg",
+      "RelativePath": "Images/banner_logo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "bvwgopk0je",
+      "Integrity": "Z2ZlwSxhNZIPNrXCDkCPTTZeNc4MnE6kAwpP67vdlMM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/banner_logo.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\banner_logo.jpg"
     },
     {
-      "Identity": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/Images/banner_wide.jpg",
+      "Identity": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\Images\\banner_wide.jpg",
       "SourceId": "WebApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\",
       "BasePath": "_content/WebApp1",
-      "RelativePath": "Images/banner_wide.jpg",
+      "RelativePath": "Images/banner_wide#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "rav76jcerw",
+      "Integrity": "M8zwSNDIon5+M5u8E2TVzQUioCtYc6WezVdkt1d2qok=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/banner_wide.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\banner_wide.jpg"
     },
     {
-      "Identity": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/Images/logo.jpg",
+      "Identity": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\Images\\logo.jpg",
       "SourceId": "WebApp1",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
+      "ContentRoot": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\",
       "BasePath": "_content/WebApp1",
-      "RelativePath": "Images/logo.jpg",
+      "RelativePath": "Images/logo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "7tybpt444j",
+      "Integrity": "+xEDGZtmipZ1siH85ErVmOo+p9PJYjHyQg1VUKHU/xA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/logo.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\logo.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "CSS/account.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\account.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WkC5r3PBQRBruiqs0fT6+mGnCSrc/pCSz7w89QWj4as=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 17:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WkC5r3PBQRBruiqs0fT6+mGnCSrc/pCSz7w89QWj4as="
+        }
+      ]
     },
     {
-      "Identity": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/index.html",
-      "SourceId": "WebApp1",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/wwwroot/",
-      "BasePath": "_content/WebApp1",
-      "RelativePath": "index.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/index.html"
+      "Route": "CSS/account.eb8xc3igf3.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\account.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WkC5r3PBQRBruiqs0fT6+mGnCSrc/pCSz7w89QWj4as=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 17:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eb8xc3igf3"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/account.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WkC5r3PBQRBruiqs0fT6+mGnCSrc/pCSz7w89QWj4as="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/app.1b8sau4ocs.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yQux4OSM7jm0MjllQnfPZT5Ouof5br4VAPihU/hvqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 17:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1b8sau4ocs"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8yQux4OSM7jm0MjllQnfPZT5Ouof5br4VAPihU/hvqQ="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/app.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yQux4OSM7jm0MjllQnfPZT5Ouof5br4VAPihU/hvqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 17:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8yQux4OSM7jm0MjllQnfPZT5Ouof5br4VAPihU/hvqQ="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/createAccount.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\createAccount.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pNcCXqEl/AV8K61x0TntVdftn5urGSNdZ6V60wwayEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 17:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pNcCXqEl/AV8K61x0TntVdftn5urGSNdZ6V60wwayEM="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/createAccount.g1rv1jjxw9.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\createAccount.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pNcCXqEl/AV8K61x0TntVdftn5urGSNdZ6V60wwayEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 17:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1rv1jjxw9"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/createAccount.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pNcCXqEl/AV8K61x0TntVdftn5urGSNdZ6V60wwayEM="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/login.295g8ajhbi.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aqHJixd7DOShizmNbVcA3G9nDH0t+yyYTHo0A6Rt/t4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 17:44:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "295g8ajhbi"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aqHJixd7DOShizmNbVcA3G9nDH0t+yyYTHo0A6Rt/t4="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/login.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aqHJixd7DOShizmNbVcA3G9nDH0t+yyYTHo0A6Rt/t4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 17:44:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aqHJixd7DOShizmNbVcA3G9nDH0t+yyYTHo0A6Rt/t4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/banner_logo.bvwgopk0je.jpg",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\Images\\banner_logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "917046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z2ZlwSxhNZIPNrXCDkCPTTZeNc4MnE6kAwpP67vdlMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 17:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bvwgopk0je"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/banner_logo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z2ZlwSxhNZIPNrXCDkCPTTZeNc4MnE6kAwpP67vdlMM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/banner_logo.jpg",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\Images\\banner_logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "917046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z2ZlwSxhNZIPNrXCDkCPTTZeNc4MnE6kAwpP67vdlMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 17:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z2ZlwSxhNZIPNrXCDkCPTTZeNc4MnE6kAwpP67vdlMM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/banner_wide.jpg",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\Images\\banner_wide.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1015047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M8zwSNDIon5+M5u8E2TVzQUioCtYc6WezVdkt1d2qok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 17:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M8zwSNDIon5+M5u8E2TVzQUioCtYc6WezVdkt1d2qok="
+        }
+      ]
+    },
+    {
+      "Route": "Images/banner_wide.rav76jcerw.jpg",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\Images\\banner_wide.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1015047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M8zwSNDIon5+M5u8E2TVzQUioCtYc6WezVdkt1d2qok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 17:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rav76jcerw"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/banner_wide.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M8zwSNDIon5+M5u8E2TVzQUioCtYc6WezVdkt1d2qok="
+        }
+      ]
+    },
+    {
+      "Route": "Images/logo.7tybpt444j.jpg",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\Images\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1646537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xEDGZtmipZ1siH85ErVmOo+p9PJYjHyQg1VUKHU/xA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 17:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7tybpt444j"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/logo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xEDGZtmipZ1siH85ErVmOo+p9PJYjHyQg1VUKHU/xA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/logo.jpg",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\Images\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1646537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xEDGZtmipZ1siH85ErVmOo+p9PJYjHyQg1VUKHU/xA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 12 Nov 2024 17:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xEDGZtmipZ1siH85ErVmOo+p9PJYjHyQg1VUKHU/xA="
+        }
+      ]
     }
   ]
 }

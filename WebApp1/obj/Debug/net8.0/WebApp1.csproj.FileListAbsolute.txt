@@ -1,120 +1,171 @@
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/appsettings.Development.json
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/appsettings.json
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.exe
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.deps.json
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.runtimeconfig.json
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.dll
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.pdb
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.GeneratedMSBuildEditorConfig.editorconfig
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.AssemblyInfoInputs.cache
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.AssemblyInfo.cs
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.csproj.CoreCompileInputs.cache
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.MvcApplicationPartsAssemblyInfo.cache
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.build.json
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.development.json
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.WebApp1.Microsoft.AspNetCore.StaticWebAssets.props
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp1.props
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp1.props
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp1.props
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.pack.json
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/scopedcss/bundle/WebApp1.styles.css
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.dll
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/refint/WebApp1.dll
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.pdb
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.genruntimeconfig.cache
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/ref/WebApp1.dll
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.staticwebassets.runtime.json
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.RazorAssemblyInfo.cache
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.RazorAssemblyInfo.cs
-c:/Users/jonat/OneDrive/Desktop/CPSC 3720/WebApp Intro/WebApplication/.NET Starter/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.sourcelink.json
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/appsettings.Development.json
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/appsettings.json
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.staticwebassets.runtime.json
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.deps.json
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.runtimeconfig.json
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.dll
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.pdb
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.GeneratedMSBuildEditorConfig.editorconfig
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.AssemblyInfoInputs.cache
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.AssemblyInfo.cs
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.csproj.CoreCompileInputs.cache
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.MvcApplicationPartsAssemblyInfo.cache
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.RazorAssemblyInfo.cache
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.RazorAssemblyInfo.cs
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.sourcelink.json
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.build.json
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.development.json
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.WebApp1.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp1.props
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp1.props
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp1.props
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.pack.json
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/scopedcss/bundle/WebApp1.styles.css
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.dll
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/refint/WebApp1.dll
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.pdb
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.genruntimeconfig.cache
-/Users/palaktrivedi/Desktop/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/ref/WebApp1.dll
-<<<<<<< Updated upstream
-=======
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/appsettings.Development.json
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/appsettings.json
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.staticwebassets.runtime.json
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.exe
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.deps.json
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.runtimeconfig.json
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.dll
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.pdb
->>>>>>> Stashed changes
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.AssemblyInfoInputs.cache
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.AssemblyInfo.cs
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.csproj.CoreCompileInputs.cache
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.MvcApplicationPartsAssemblyInfo.cache
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.RazorAssemblyInfo.cache
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.RazorAssemblyInfo.cs
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.sourcelink.json
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.dll
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/refint/WebApp1.dll
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.pdb
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.build.json
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.development.json
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.WebApp1.Microsoft.AspNetCore.StaticWebAssets.props
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp1.props
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp1.props
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp1.props
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.pack.json
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/scopedcss/bundle/WebApp1.styles.css
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.genruntimeconfig.cache
-C:/Users/jonat/OneDrive/Documents/GitHub/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/ref/WebApp1.dll
->>>>>>> 36bde6dcb93eb52ac1f873f5dae6b308489eb1d4
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/appsettings.Development.json
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/appsettings.json
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.staticwebassets.runtime.json
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.deps.json
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.runtimeconfig.json
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.dll
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/bin/Debug/net8.0/WebApp1.pdb
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.GeneratedMSBuildEditorConfig.editorconfig
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.AssemblyInfoInputs.cache
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.AssemblyInfo.cs
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.csproj.CoreCompileInputs.cache
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.MvcApplicationPartsAssemblyInfo.cache
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.RazorAssemblyInfo.cache
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.RazorAssemblyInfo.cs
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.sourcelink.json
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.build.json
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.development.json
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.WebApp1.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp1.props
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp1.props
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp1.props
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/staticwebassets.pack.json
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/scopedcss/bundle/WebApp1.styles.css
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.dll
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/refint/WebApp1.dll
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.pdb
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/WebApp1.genruntimeconfig.cache
-/Users/nickdigennaro/Developer/compsci/3720/tigertix/3720-.NET-Starter-Project/WebApp1/obj/Debug/net8.0/ref/WebApp1.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\appsettings.json
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\WebApp1.staticwebassets.runtime.json
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\WebApp1.staticwebassets.endpoints.json
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\WebApp1.exe
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\WebApp1.deps.json
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\WebApp1.runtimeconfig.json
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\WebApp1.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\WebApp1.pdb
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.AssemblyInfo.cs
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.RazorAssemblyInfo.cache
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.RazorAssemblyInfo.cs
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.sourcelink.json
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\scopedcss\bundle\WebApp1.styles.css
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.WebApp1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.WebApp1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp1.props
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp1.props
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp1.props
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.csproj.Up2Date
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\refint\WebApp1.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.pdb
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.genruntimeconfig.cache
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\ref\WebApp1.dll
+C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -1,5 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using WebApp1.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<TigerTixContext>(cfg =>
+{
+    cfg.UseSqlServer();
+});
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IEventRepository, EventRepository>();
 builder.Services.AddControllers();
 var app = builder.Build();
 if (!app.Environment.IsDevelopment()) {

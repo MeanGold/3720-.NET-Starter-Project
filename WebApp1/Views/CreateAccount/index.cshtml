@@ -1,3 +1,4 @@
+@model WebApp1.Data.Entities.User
 @{
     ViewData["Title"] = "Create Account";
 }
@@ -47,13 +48,26 @@
         <div class="form login">
             <div class="form-content">
                 <header>Create Your Account</header>
-                <form id="signup-form">
+                <form id="signup-form" method="post" action="createaccount/newUser">
+                    
                     <div class="field">
-                        <input type="email" placeholder="Email" class="input" name="email">
+                        <input type="text" placeholder="Your first name" class="input" name="FirstName">
                     </div>
 
                     <div class="field">
-                        <input type="password" placeholder="Create password" class="password" name="password">
+                        <input type="text" placeholder="Your last name" class="input" name="LastName">
+                    </div>
+
+                    <div class="field">
+                        <input type="email" placeholder="Email" class="input" name="EmailAddress">
+                    </div>
+
+                    <div class="field">
+                        <input type="text" placeholder="Username" class="input" name="UserName">
+                    </div>
+
+                    <div class="field">
+                        <input type="password" placeholder="Create password" class="password" name="Password">
                         <i class='bx bx-hide eye-icon' id="togglepassword"></i>
                     </div>
 
@@ -62,7 +76,7 @@
                     </div>
 
                     <div class="field">
-                        <select default="Age" class="age_select" name="age">
+                        <select default="Affiliate" class="affiliate_select" name="ClemsonAffiliate">
                             <option disabled selected value> -- Are you a Clemson affiliate? -- </option>
                             <option value="0"> Yes </option>
                             <option value="1"> No </option>
