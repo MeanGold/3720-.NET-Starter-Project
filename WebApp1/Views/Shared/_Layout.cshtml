@@ -11,16 +11,18 @@
     </head>
     <body>
         <header>
-            <a href="~/app/index"><img class="banner" src="~/Images/banner_wide.jpg"/></a>
-            @* <img class="logo" src="~/Images/logo.jpg"/> *@
-            @* <a href="~/app/index" class="home"><h1>Welcome to TigerTix</h1></a> *@
-            <nav>
-                <a href="~/events/index">Events</a>
-                <a href ="~/app/customerservice">Customer Service</a>
-                <a href="~/app/login">Login</a>
-            </nav>
+            <div class="header">
+                <a href="~/app/index"><img class="banner" src="~/Images/banner_wide.jpg" /></a>
+                @* <img class="logo" src="~/Images/logo.jpg"/> *@
+                @* <a href="~/app/index" class="home"><h1>Welcome to TigerTix</h1></a> *@
+                <nav>
+                    <a href="~/events/index">Events</a>
+                    <a href="~/app/customerservice">Customer Service</a>
+                    <a href="~/app/login">Login</a>
+                </nav>
+            </div>
+            
         </header>
-
         
         <div class="main">
             @RenderBody()

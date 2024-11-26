@@ -6,6 +6,9 @@
 }
 
 <style>
+    .main {
+        margin: auto; 
+    }
     .back {
         background-color: #951eb0;
         border: 0.5px solid #951eb0;
@@ -17,6 +20,7 @@
         font-family: "Akzidenz Grotesk BQ Medium", -apple-system, BlinkMacSystemFont, sans-serif;
         font-size: 16px;
         font-weight: 400;
+        margin-bottom: 50px;
         outline: none;
         outline: 0;
         padding: 8px 20px;
@@ -43,5 +47,7 @@
     <p><strong>Time:</strong> @Model.Time</p>
     <p><strong>Location:</strong> @Model.Location</p>
 </div>
+<div class="back">
 <a href="/Events" class="back">Back to Events</a> <!-- Back button to events page -->
+</div>
 
