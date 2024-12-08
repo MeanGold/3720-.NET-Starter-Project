@@ -9,5 +9,6 @@ namespace WebApp1.Data.Entities
         public required string Date { get; set; }
         public required string Time { get; set; }
         public required string Location { get; set; }
+        public required int numTickets { get; set; }
     }
 }

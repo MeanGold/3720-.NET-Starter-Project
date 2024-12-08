@@ -8,6 +8,8 @@ public class TigerTixContext : DbContext
 
     public required DbSet<Event> Events { get; set; }
 
+    public required DbSet<Ticket> Tickets { get; set; }
+
     private readonly IConfiguration _config;
 
     public TigerTixContext(IConfiguration config)

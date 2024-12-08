@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebApp1.Data;
 
@@ -10,9 +11,11 @@ using WebApp1.Data;
 namespace WebApp1.Migrations
 {
     [DbContext(typeof(TigerTixContext))]
-    partial class TigerTixContextModelSnapshot : ModelSnapshot
+    [Migration("20241205205650_TicketsDB")]
+    partial class TicketsDB
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -49,9 +52,6 @@ namespace WebApp1.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("numTickets")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
                     b.ToTable("Events");
@@ -65,13 +65,17 @@ namespace WebApp1.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("customerID")
+                    b.Property<int>("customerId")
                         .HasColumnType("int");
 
-                    b.Property<int>("eventID")
+                    b.Property<int>("theEventId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("customerId");
+
+                    b.HasIndex("theEventId");
 
                     b.ToTable("Tickets");
                 });
@@ -110,12 +114,28 @@ namespace WebApp1.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<bool>("remember_me")
-                        .HasColumnType("bit");
-
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("WebApp1.Data.Entities.Ticket", b =>
+                {
+                    b.HasOne("WebApp1.Data.Entities.User", "customer")
+                        .WithMany()
+                        .HasForeignKey("customerId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("WebApp1.Data.Entities.Event", "theEvent")
+                        .WithMany()
+                        .HasForeignKey("theEventId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("customer");
+
+                    b.Navigation("theEvent");
                 });
 #pragma warning restore 612, 618
         }

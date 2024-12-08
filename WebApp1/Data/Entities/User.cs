@@ -17,6 +17,6 @@
 
         public string? CUID_number { get; set; }
 
-
+        public bool remember_me { get; set; } = false;
     }
 }

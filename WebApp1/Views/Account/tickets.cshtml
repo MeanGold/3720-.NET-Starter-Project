@@ -1,0 +1,36 @@
+﻿@model dynamic
+@{
+    Layout = "~/Views/Shared/_Layout-account.cshtml";
+    ViewData["Title"] = "Account Page";
+}
+
+<!-- Main Content Section -->
+<div class="content">
+    <h2>Hi, @Model.username</h2>
+    <h3>Welcome to your tickets page!</h3>
+    @if (Model.tickets == null)
+    {
+        <p>You don't have any tickets!</p>
+    } else {
+        @foreach (var evt in Model.events) {
+            int ticketId = -1;
+            foreach (var tix in Model.tickets) {
+                if (tix.eventID == evt.Id) {
+                    ticketId = tix.Id; 
+                    break;
+                }
+            }
+            <div class="event-card">
+                <div class="event-title">@evt.Title</div>
+                <div class="event-details">
+                    <p>@evt.Description</p>
+                    <p><strong>Date:</strong> @evt.Date</p>
+                    <p><strong>Time:</strong> @evt.Time</p>
+                    <p><strong>Location:</strong> @evt.Location</p>
+                </div>
+            
+                <p><strong>Your ticket id:</strong> @ticketId</p>
+            </div>
+        }
+    }
+</div>

@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebApp1.Data;
 
@@ -10,9 +11,11 @@ using WebApp1.Data;
 namespace WebApp1.Migrations
 {
     [DbContext(typeof(TigerTixContext))]
-    partial class TigerTixContextModelSnapshot : ModelSnapshot
+    [Migration("20241205225958_TicketsDBv02")]
+    partial class TicketsDBv02
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

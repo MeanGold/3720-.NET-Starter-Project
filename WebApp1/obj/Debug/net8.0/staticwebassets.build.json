@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CI39aqxxxx5BbFXJVhzEbAU+XfKy7d8v4I+Pzsa7nwY=",
+  "Hash": "CAJ4+EuLbZZo3mllFvyRlbY2scSJ5ybt1y7WA+sp9sc=",
   "Source": "WebApp1",
   "BasePath": "_content/WebApp1",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "eb8xc3igf3",
-      "Integrity": "WkC5r3PBQRBruiqs0fT6+mGnCSrc/pCSz7w89QWj4as=",
+      "Fingerprint": "co9pr22sg3",
+      "Integrity": "PGB0Julie/4Rj1SV03U+0SR7Jk2Eh+NjjSnv+1vThwE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CSS\\account.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kutkgf26q6",
-      "Integrity": "5N8R5kC6qgKa/Ig4Cm46NgwawrjL+uipGTsnnzMz/u8=",
+      "Fingerprint": "hp8shg7t5c",
+      "Integrity": "60NymI4mtlSAcWEIT8ShTGKWrjHnccmuPHomhhkvi2s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CSS\\app.css"
@@ -166,6 +166,51 @@
   ],
   "Endpoints": [
     {
+      "Route": "CSS/account.co9pr22sg3.css",
+      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\account.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PGB0Julie/4Rj1SV03U+0SR7Jk2Eh+NjjSnv+1vThwE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 12:29:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "co9pr22sg3"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/account.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PGB0Julie/4Rj1SV03U+0SR7Jk2Eh+NjjSnv+1vThwE="
+        }
+      ]
+    },
+    {
       "Route": "CSS/account.css",
       "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\account.css",
       "Selectors": [],
@@ -176,7 +221,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "976"
+          "Value": "1414"
         },
         {
           "Name": "Content-Type",
@@ -184,11 +229,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WkC5r3PBQRBruiqs0fT6+mGnCSrc/pCSz7w89QWj4as=\""
+          "Value": "\"PGB0Julie/4Rj1SV03U+0SR7Jk2Eh+NjjSnv+1vThwE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 12 Nov 2024 17:44:52 GMT"
+          "Value": "Sat, 07 Dec 2024 12:29:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -198,52 +243,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WkC5r3PBQRBruiqs0fT6+mGnCSrc/pCSz7w89QWj4as="
-        }
-      ]
-    },
-    {
-      "Route": "CSS/account.eb8xc3igf3.css",
-      "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\account.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "976"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WkC5r3PBQRBruiqs0fT6+mGnCSrc/pCSz7w89QWj4as=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 12 Nov 2024 17:44:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "eb8xc3igf3"
-        },
-        {
-          "Name": "label",
-          "Value": "CSS/account.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WkC5r3PBQRBruiqs0fT6+mGnCSrc/pCSz7w89QWj4as="
+          "Value": "sha256-PGB0Julie/4Rj1SV03U+0SR7Jk2Eh+NjjSnv+1vThwE="
         }
       ]
     },
@@ -258,7 +258,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1922"
+          "Value": "3451"
         },
         {
           "Name": "Content-Type",
@@ -266,11 +266,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5N8R5kC6qgKa/Ig4Cm46NgwawrjL+uipGTsnnzMz/u8=\""
+          "Value": "\"60NymI4mtlSAcWEIT8ShTGKWrjHnccmuPHomhhkvi2s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 15:30:29 GMT"
+          "Value": "Tue, 26 Nov 2024 15:55:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -280,12 +280,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5N8R5kC6qgKa/Ig4Cm46NgwawrjL+uipGTsnnzMz/u8="
+          "Value": "sha256-60NymI4mtlSAcWEIT8ShTGKWrjHnccmuPHomhhkvi2s="
         }
       ]
     },
     {
-      "Route": "CSS/app.kutkgf26q6.css",
+      "Route": "CSS/app.hp8shg7t5c.css",
       "AssetFile": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -295,7 +295,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1922"
+          "Value": "3451"
         },
         {
           "Name": "Content-Type",
@@ -303,11 +303,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5N8R5kC6qgKa/Ig4Cm46NgwawrjL+uipGTsnnzMz/u8=\""
+          "Value": "\"60NymI4mtlSAcWEIT8ShTGKWrjHnccmuPHomhhkvi2s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 15:30:29 GMT"
+          "Value": "Tue, 26 Nov 2024 15:55:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -317,7 +317,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kutkgf26q6"
+          "Value": "hp8shg7t5c"
         },
         {
           "Name": "label",
@@ -325,7 +325,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5N8R5kC6qgKa/Ig4Cm46NgwawrjL+uipGTsnnzMz/u8="
+          "Value": "sha256-60NymI4mtlSAcWEIT8ShTGKWrjHnccmuPHomhhkvi2s="
         }
       ]
     },

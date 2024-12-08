@@ -13,11 +13,11 @@
         <header>
             <a href="~/account" class="home"><h1>Your Account Page</h1></a>
             <nav>
-                <a href="~/app/events">Events</a>
+                <a href="~/events">Events</a>
                 <a href ="~/app/customerservice">Customer Service</a>
                 <a href="~/account/profile">Profile</a>
                 <a href="~/account/#settings">Settings</a>
-                <a href="~/account/#tickets">My Tickets</a>
+                <a href="~/account/tickets?username=@ViewData["username"]">My Tickets</a>
                 <a href="~/account/#logout">Logout</a>
             </nav>
         </header>

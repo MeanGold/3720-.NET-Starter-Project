@@ -51,9 +51,9 @@
         <div class="form login">
             <div class="form-content">
                 <header>Login</header>
-                <form id="login-form">
+                <form id="login-form" method="post">
                     <div class="field input-field">
-                        <input type="email" placeholder="Email" class="input" name="email">
+                        <input type="text" placeholder="Username" class="input" name="username">
                     </div>
 
                     <div class="field input-field">
@@ -74,6 +74,9 @@
                     <div class="field button-field">
                         <button type="submit">Login</button>
                     </div>
+                    @if(ViewData["loginErrorMessage"] != null) {
+                        <h3>@ViewData["loginErrorMessage"]</h3>
+                    }
                 </form>
 
                 <div class="form-link">

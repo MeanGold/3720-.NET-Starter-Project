@@ -1,7 +1,0 @@
-wwwroot\CSS\account.css
-wwwroot\CSS\app.css
-wwwroot\CSS\createAccount.css
-wwwroot\CSS\login.css
-wwwroot\Images\banner_logo.jpg
-wwwroot\Images\banner_wide.jpg
-wwwroot\Images\logo.jpg

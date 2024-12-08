@@ -1,4 +1,5 @@
-﻿using WebApp1.Data.Entities;
+﻿using System.Diagnostics.Eventing.Reader;
+using WebApp1.Data.Entities;
 namespace WebApp1.Data
 {
     public class UserRepository : IUserRepository
@@ -30,6 +31,33 @@ namespace WebApp1.Data
                         where u.Id == userID
                         select u).FirstOrDefault();
             return user;
+        }
+        public User GetUsersByUsername(string username)
+        {
+            var user = (from u in _context.Users
+                        where u.UserName == username
+                        select u).FirstOrDefault();
+            return user;
+        }
+
+        public int ValidateUser(string username, string password)
+        {
+            int retVal = 0;
+            if (string.IsNullOrEmpty(username))
+            {
+                retVal = -1;
+            } else
+            {
+                User user = (from u in _context.Users
+                             where u.UserName == username
+                             select u).FirstOrDefault()!;
+
+                retVal = (user.Password == password) ? user.Id : -2;
+            }
+            
+            //int retVal = (user != null ? user.Id : -1);
+
+            return retVal; 
         }
 
         // Update a user

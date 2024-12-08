@@ -9,6 +9,7 @@ builder.Services.AddDbContext<TigerTixContext>(cfg =>
 });
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IEventRepository, EventRepository>();
+builder.Services.AddScoped<ITicketRepository, TicketRepository>();
 builder.Services.AddControllers();
 var app = builder.Build();
 if (!app.Environment.IsDevelopment()) {

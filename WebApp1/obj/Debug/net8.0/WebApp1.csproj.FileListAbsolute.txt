@@ -162,7 +162,6 @@ C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debu
 C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp1.props
 C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp1.props
 C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.csproj.Up2Date
 C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\WebApp1.dll
 C:\Users\jonat\OneDrive - Clemson University\CPSC 3720\TigerTix\WebApp1\obj\Debug\net8.0\refint\WebApp1.dll

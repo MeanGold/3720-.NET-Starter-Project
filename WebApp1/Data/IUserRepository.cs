@@ -8,6 +8,9 @@ namespace WebApp1.Data
         void DeleteUser(User user);
         IEnumerable<User> GetAllUsers();
         User GetUsersByID(int userID);
+        User GetUsersByUsername(string username);
+
+        int ValidateUser(string username, string password);
         bool SaveAll();
         void UpdateUser(User user);
     }

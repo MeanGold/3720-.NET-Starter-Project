@@ -3,8 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|c:\\users\\jonat\\onedrive - clemson university\\cpsc 3720\\tigertix\\webapp1\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|solutionrelative:wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|c:\\users\\jonat\\onedrive - clemson university\\cpsc 3720\\tigertix\\webapp1\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|c:\\users\\jonat\\onedrive - clemson university\\cpsc 3720\\tigertix\\webapp1\\views\\shared\\_layout-account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|solutionrelative:views\\shared\\_layout-account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|c:\\users\\jonat\\onedrive - clemson university\\cpsc 3720\\tigertix\\webapp1\\views\\account\\tickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|solutionrelative:views\\account\\tickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|c:\\users\\jonat\\onedrive - clemson university\\cpsc 3720\\tigertix\\webapp1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|c:\\users\\jonat\\onedrive - clemson university\\cpsc 3720\\tigertix\\webapp1\\data\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|solutionrelative:data\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|c:\\users\\jonat\\onedrive - clemson university\\cpsc 3720\\tigertix\\webapp1\\views\\app\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|solutionrelative:views\\app\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|c:\\users\\jonat\\onedrive - clemson university\\cpsc 3720\\tigertix\\webapp1\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|solutionrelative:views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|c:\\users\\jonat\\onedrive - clemson university\\cpsc 3720\\tigertix\\webapp1\\views\\events\\eventdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|solutionrelative:views\\events\\eventdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|c:\\users\\jonat\\onedrive - clemson university\\cpsc 3720\\tigertix\\webapp1\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|solutionrelative:data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|c:\\users\\jonat\\onedrive - clemson university\\cpsc 3720\\tigertix\\webapp1\\data\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|solutionrelative:data\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/tigertickets.database.windows.net/TigerTixApp.db/db_admin/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|c:\\users\\jonat\\onedrive - clemson university\\cpsc 3720\\tigertix\\webapp1\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53925BDF-8E9C-4F0F-9113-54BA7527BE3B}|WebApp1.csproj|solutionrelative:data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -22,14 +69,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\app.css",
-              "RelativeDocumentMoniker": "wwwroot\\CSS\\app.css",
-              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\app.css",
-              "RelativeToolTip": "wwwroot\\CSS\\app.css",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEAAAAAeAAAAAAAAAA==",
+              "Title": "account.css",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\account.css",
+              "RelativeDocumentMoniker": "wwwroot\\CSS\\account.css",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\account.css",
+              "RelativeToolTip": "wwwroot\\CSS\\account.css",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv1MAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-26T15:26:16.955Z",
+              "WhenOpened": "2024-12-07T12:27:40.851Z",
               "EditorCaption": ""
             },
             {
@@ -42,7 +89,151 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tickets.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Views\\Account\\tickets.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\tickets.cshtml",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Views\\Account\\tickets.cshtml",
+              "RelativeToolTip": "Views\\Account\\tickets.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T22:43:34.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Views\\App\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\App\\login.cshtml",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Views\\App\\login.cshtml",
+              "RelativeToolTip": "Views\\App\\login.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T22:42:47.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Data\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Data\\IUserRepository.cs",
+              "RelativeToolTip": "Data\\IUserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:39:34.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Data\\UserRepository.cs",
+              "RelativeToolTip": "Data\\UserRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:38:03.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAvwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:36:34.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout-account.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Views\\Shared\\_Layout-account.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout-account.cshtml",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Views\\Shared\\_Layout-account.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout-account.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T22:35:52.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\CSS\\app.css",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\wwwroot\\CSS\\app.css",
+              "RelativeToolTip": "wwwroot\\CSS\\app.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-26T15:26:16.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Data\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "Data\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Data\\TicketRepository.cs",
+              "RelativeToolTip": "Data\\TicketRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:10:20.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/tigertickets.database.windows.net/TigerTixApp.db/db_admin/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/tigertickets.database.windows.net/TigerTixApp.db/db_admin/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-05T22:34:48.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:28:29.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Views\\Events\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\index.cshtml",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Views\\Events\\index.cshtml",
+              "RelativeToolTip": "Views\\Events\\index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T15:42:26.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "eventdetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Views\\Events\\eventdetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\eventdetails.cshtml",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive - Clemson University\\CPSC 3720\\TigerTix\\WebApp1\\Views\\Events\\eventdetails.cshtml",
+              "RelativeToolTip": "Views\\Events\\eventdetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T15:37:27.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -50,8 +241,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAANQVAAAAAAAAAAAcwN8VAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-11-15T14:57:07.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T14:57:07.201Z"
             }
           ]
         }
